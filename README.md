@@ -6,4 +6,5 @@ Silent: just open the .exe from Releases to install in silent mode. You can add 
 For manual installation: the .cmd script and .cab files can be found in the SOURCES folder or you can open .exe silent installer by 7zip or WinRar.
 
 Author: hydraponique
+
 Packed: 7zSFX Constructor 4.6
